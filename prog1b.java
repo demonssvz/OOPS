@@ -80,7 +80,7 @@ public class Main
 				sno  = scan.next() ;
 				scan.skip("\\R?");
 				
-				System.out.print("enter the state");
+				System.out.print("enter the city");
 				city = scan.next() ;
 				scan.skip("\\R?");
 				
